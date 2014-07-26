@@ -1,4 +1,5 @@
 events
 ======
 
-This is a sandbox for events transfering.
+This is a framework for events transfering.
+events are defined to transfer from one components to another in & out system.
